@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1> Edited by JS</h1>'
